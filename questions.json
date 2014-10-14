@@ -1,0 +1,206 @@
+[
+  {
+    "Text":"What did Kurtis say?",
+    "Answers":[
+      {"Text":"Something intelligent","Correct":false},
+      {"Text":"Something thoughtful","Correct":false},
+      {"Text":"Something profound","Correct":false},
+      {"Text":"Something stupid","Correct":true}
+    ]
+  },
+  {
+    "Text":"How many yards are there in a mile?",
+    "Answers":[
+      {"Text":"1","Correct":false},
+      {"Text":"1760","Correct":true},
+      {"Text":"5280","Correct":false},
+      {"Text":"Some but not all","Correct":false}
+    ]
+  },
+  {
+    "Text":"What do you get when you cross an owl with a bungee cord?",
+    "Answers":[
+      {"Text":"My ass","Correct":true},
+      {"Text":"Ass Dan","Correct":false},
+      {"Text":"Ass Dan's Kids","Correct":false},
+      {"Text":"Whooped Tiger","Correct":false}
+    ]
+  },
+  {
+    "Text":"What ocean contains the spot where 0° longitude meets 0° latitude?",
+    "Answers":[
+      {"Text":"Pacific Ocean","Correct":false},
+      {"Text":"Atlantic Ocean","Correct":true},
+      {"Text":"Indian Ocean","Correct":false},
+      {"Text":"Arctic Ocean","Correct":false}
+    ]
+  },
+  {
+    "Text":"Which of the following quotes is incorrectly attributed?",
+    "Answers":[
+      {"Text":"\"Motherfuck subtraction\" -Riff Raff","Correct":false},
+      {"Text":"\"Pussy\" -Sean Blackall","Correct":false},
+      {"Text":"\"I found a sweet corner\" -John Currier","Correct":false},
+      {"Text":"\"It's impossible to lie on the internet\" -Abraham Lincoln","Correct":true}
+    ]
+  },
+  {
+    "Text":"In which part of the body are your metatarsals located?",
+    "Answers":[
+      {"Text":"Head","Correct":false},
+      {"Text":"Shoulders","Correct":false},
+      {"Text":"Knees","Correct":false},
+      {"Text":"Feet","Correct":true}
+    ]
+  },
+  {
+    "Text":"Only fuck with hoes who rock ________?",
+    "Answers":[
+      {"Text":"Dolce & Gabbana","Correct":true},
+      {"Text":"Tommy Hilfiger","Correct":false},
+      {"Text":"Versace (Versace Versace)","Correct":false},
+      {"Text":"Fendi","Correct":false}
+    ]
+  },
+  {
+    "Text":"How many friends are featured on the TV show \"Friends\"?",
+    "Answers":[
+      {"Text":"Pat McQuaid","Correct":false},
+      {"Text":"Two","Correct":false},
+      {"Text":"Four","Correct":false},
+      {"Text":"Six","Correct":true}
+    ]
+  },
+  {
+    "Text":"How did Bigfoot die?",
+    "Answers":[
+      {"Text":"Apparently, the Bigfoot had been experiencing depression, and hung himself.","Correct":true},
+      {"Text":"Blasted","Correct":false},
+      {"Text":"Shot up","Correct":false},
+      {"Text":"Murked","Correct":false}
+    ]
+  },
+  {
+    "Text":"On the standard Monopoly board, what color are the Chance cards?",
+    "Answers":[
+      {"Text":"Red","Correct":false},
+      {"Text":"Blue","Correct":false},
+      {"Text":"Purple","Correct":false},
+      {"Text":"Orange","Correct":true}
+    ]
+  },
+  {
+    "Text":"Squid.",
+    "Answers":[
+      {"Text":"That's not even a question?","Correct":false},
+      {"Text":"What's your point?","Correct":false},
+      {"Text":"FEEEEEET","Correct":true},
+      {"Text":"Calamari?","Correct":false}
+    ]
+  },
+  {
+    "Text":"Sam Brown.",
+    "Answers":[
+      {"Text":"Seriously, that's not a question either","Correct":false},
+      {"Text":"Ha","Correct":false},
+      {"Text":"Haha","Correct":false},
+      {"Text":"AHAHAHAHAHA LOL SAM BROWN","Correct":true}
+    ]
+  },
+  {
+    "Text":"What does the military term AWOL stand for?",
+    "Answers":[
+      {"Text":"Ayss, Where's Our Lemonade?","Correct":false},
+      {"Text":"Angry Women Own Lipstick","Correct":false},
+      {"Text":"Always Wash Out Loafers","Correct":false},
+      {"Text":"Absent Without Official Leave","Correct":true}
+    ]
+  },
+  {
+    "Text":"Which of the following is a synonym for chair?",
+    "Answers":[
+      {"Text":"Face","Correct":true},
+      {"Text":"Not Face","Correct":false},
+      {"Text":"Stoop","Correct":false},
+      {"Text":"Bench","Correct":false}
+    ]
+  },
+  {
+    "Text":"In which decade was the Berlin Wall erected?",
+    "Answers":[
+      {"Text":"Heh \"erected\"","Correct":false},
+      {"Text":"Clearly not the same decade Tim was born","Correct":false},
+      {"Text":"1960s","Correct":true},
+      {"Text":"1940s","Correct":false}
+    ]
+  },
+  {
+    "Text":"Chicken go cluck-cluck, cow go moo. Piggie go oink-oink, how bout you?",
+    "Answers":[
+      {"Text":"Uh","Correct":false},
+      {"Text":"Um","Correct":false},
+      {"Text":"Erm","Correct":false},
+      {"Text":"I couldn't actually think of a good answer for this one...it's this.","Correct":true}
+    ]
+  },
+  {
+    "Text":"How many ounces are there in a pound?",
+    "Answers":[
+      {"Text":"32","Correct":false},
+      {"Text":"16","Correct":true},
+      {"Text":"8","Correct":false},
+      {"Text":"Mad grams yo","Correct":false}
+    ]
+  },
+  {
+    "Text":"What color is the cross on the Swedish flag?",
+    "Answers":[
+      {"Text":"Red","Correct":false},
+      {"Text":"Orange","Correct":false},
+      {"Text":"Yellow","Correct":true},
+      {"Text":"Blue","Correct":false}
+    ]
+  },
+  {
+    "Text":"I'm running out of ideas, just guess this one.",
+    "Answers":[
+      {"Text":"1","Correct":true},
+      {"Text":"2","Correct":true},
+      {"Text":"3","Correct":true},
+      {"Text":"4","Correct":true},
+      {"Text":"5","Correct":true},
+      {"Text":"6","Correct":true},
+      {"Text":"7","Correct":true},
+      {"Text":"8","Correct":true},
+      {"Text":"9","Correct":true},
+      {"Text":"10","Correct":true}
+    ]
+  },
+  {
+    "Text":"I bet you were pumped for guessing that last one right. Spoiler alert: They were all correct.",
+    "Answers":[
+      {"Text":"Aww man","Correct":true},
+      {"Text":"I really thought I had it","Correct":true},
+      {"Text":"Wait so all these are right too?","Correct":true},
+      {"Text":"Yep","Correct":true}
+    ]
+  },
+  {
+    "Text":"Last question, you ready?",
+    "Answers":[
+      {"Text":"I was born ready","Correct":true},
+      {"Text":"Nah","Correct":false},
+      {"Text":"Nope","Correct":false},
+      {"Text":"Defsauce not","Correct":false}
+    ]
+  },
+  {
+    "Text":"What was the answer to the first question?",
+    "Answers":[
+      {"Text":"1760","Correct":false},
+      {"Text":"Something stupid","Correct":true},
+      {"Text":"Dolce & Gabana","Correct":false},
+      {"Text":"My ass","Correct":false}
+    ]
+  }
+]
